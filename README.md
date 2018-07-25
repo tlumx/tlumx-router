@@ -15,7 +15,7 @@
 Use [Composer](https://getcomposer.org/) to install tlumx-router.
 
 ```bash
-$ composer require tlumx/tlumx-router
+$ composer require tlumx/tlumx-router:"1.0.*"
 ```
 
 ## Usage
